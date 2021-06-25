@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h> 
+#include<time.h>
 
 void showHangman(int);
 void addword();
